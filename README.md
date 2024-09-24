@@ -69,5 +69,6 @@ Configura el `pom.xml` de Maven para empaquetar un FAT JAR, asegurando que inclu
   </plugins>
 </build>
 
-5. Manejo de excepciones:
+
+### 5. Manejo de excepciones:
 Asegúrate de que el programa maneje las excepciones correctamente usando bloques try-catch para evitar interrupciones.
